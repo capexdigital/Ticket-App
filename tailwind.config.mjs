@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        nav: "18222f",
+        nav: "#18222f",
         page: "#2b3441",
         card: "47566a",
         "card-hover": "4f5e74",
