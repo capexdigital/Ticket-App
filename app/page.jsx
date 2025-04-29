@@ -5,7 +5,7 @@ const Dashboard = () => {
   return (
     <div>
       <TicketCard />
-    </div>
+    </div>   
   );
 };
 
