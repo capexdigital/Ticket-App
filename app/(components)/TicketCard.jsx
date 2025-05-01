@@ -12,10 +12,10 @@ const TicketCard = () => {
           <DeleteBlock />
         </div>
       </div>
-      <h4>Ticket title</h4>
+      <h4>Insert ticket title</h4>
       <hr className="h-px border-0 bg-page mb-2" />
       <p className="whitespace-pre-wrap">
-        This is the tiket description!Please do it
+        This is the tiket description!Please write it.
       </p>
       <ProgressDisplay />
       <StatusDisplay />
